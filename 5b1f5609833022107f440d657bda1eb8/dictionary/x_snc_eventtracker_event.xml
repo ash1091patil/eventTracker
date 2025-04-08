@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="eea0aa89833022107f440d657bda1e5a" extends="task" label="Event" max_length="40" name="x_snc_eventtracker_event" type="collection"/>
+</database>
